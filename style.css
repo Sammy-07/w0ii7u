@@ -1,6 +1,11 @@
+@font-face {
+  font-family: 'wiiufont';
+  src: url('font/nintendo_NTLG-DB_002.ttf') format('truetype');
+}
 body {
   background-color: #555555;
   color: white;
+  font-family: 'wiiufont';
 }
 .title {
   text-align: center;
