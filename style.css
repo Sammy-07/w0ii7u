@@ -17,5 +17,7 @@ body {
 .image1 {
   height: 25%;
   width: 25%;
-  margin: auto;
+}
+.divcenter {
+  justify-content: center;
 }
