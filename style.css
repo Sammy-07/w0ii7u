@@ -15,6 +15,7 @@ body {
   font-family: 'wiiufont';
 }
 .image1 {
-  height: 500px;
+  height: 50%;
   width: auto;
+  text-align: center;
 }
