@@ -22,3 +22,10 @@ body {
 .divcenter {
   text-align: center;
 }
+.bottom-left {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  z-index: 1000;
+}
+
