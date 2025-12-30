@@ -39,6 +39,9 @@ body {
   position: fixed;
   bottom: 0;
   z-index: 1000;
+  background-color: white;
+  opacity: 0.5;
+  border-radius: 100px 100px 0 0;
 }
 
 .navbarbutton {
