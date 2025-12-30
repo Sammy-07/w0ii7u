@@ -47,7 +47,7 @@ body {
   z-index: 1000;
   position: fixed;
   bottom: 0;
-  left: 19%;
+  left: 10%;
   /*transform: translateX(-50%);*/
 
   display: flex;
@@ -71,6 +71,7 @@ body {
   height: 100px;
   width: 100px;
   opacity: 1.0;
+  text-align: center;
 }
 
 .navbarbuttonactive {
@@ -89,6 +90,7 @@ body {
   height: 100px;
   width: 100px;
   opacity: 1.0;
+  text-align: center;
 }
 
 .material-symbols-outlined {
