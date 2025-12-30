@@ -48,7 +48,7 @@ body {
   padding-right: 50px;
   width: 500px;
   height: auto;
-  
+  display: block;
 }
 
 .navbarbutton {
