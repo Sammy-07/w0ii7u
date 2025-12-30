@@ -48,6 +48,7 @@ body {
   position: fixed;
   bottom: 0;
   left: auto;
+  right: auto;
   /*transform: translateX(-50%);*/
 
   display: flex;
