@@ -47,7 +47,7 @@ body {
   z-index: 1000;
   position: fixed;
   bottom: 0;
-  left: 25%;
+  left: 99%;
   /*transform: translateX(-50%);*/
 
   display: flex;
