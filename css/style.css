@@ -2,26 +2,32 @@
   font-family: 'wiiufont';
   src: url('../font/nintendo_NTLG-DB_002.ttf') format('truetype');
 }
+
 body {
   background-color: #555555;
   color: white;
   font-family: 'wiiufont';
 }
+
 .title {
   text-align: center;
   font-family: 'wiiufont';
 }
+
 .button {
   text-align: center;
   font-family: 'wiiufont';
 }
+
 .image1 {
   height: 25%;
   width: 25%;
 }
+
 .divcenter {
   text-align: center;
 }
+
 .bottom-left {
   position: fixed;
   bottom: 0;
@@ -29,3 +35,35 @@ body {
   z-index: 1000;
 }
 
+.navbar {
+  position: fixed;
+  bottom: 0;
+  z-index: 1000;
+}
+
+.navbarbutton {
+  background-color: white;
+  color: black;
+  border-radius: 100px;
+  /*border-color: black;*/
+  border: none;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 3px 10px;
+  cursor: pointer;
+  margin-top: 15px;
+  margin-bottom: 8px;
+}
+
+.navbarbuttonactive {
+  background-color: black;
+  color: white;
+  border-radius: 100px;
+  /*border-color: white;*/
+  border: none;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 3px 10px;
+  margin-top: 15px;
+  margin-bottom: 8px;
+}
