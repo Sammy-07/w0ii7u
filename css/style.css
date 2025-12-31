@@ -111,7 +111,7 @@ body {
   padding-left: 50px;
   padding-right: 50px;
   width: 150px;
-  height: auto;
+  height: 75px;
   
   /*z-index: 1000;*/
   position: fixed;
