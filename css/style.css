@@ -13,6 +13,7 @@ body {
   text-align: center;
   font-family: 'wiiufont';
   font-weight: bolder;
+  margin: auto;
 }
 
 .button {
