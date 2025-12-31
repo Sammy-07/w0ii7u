@@ -103,3 +103,23 @@ body {
   'GRAD' 0,
   'opsz' 48;
 }
+
+.topbar {
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 75px 75px 0 0;
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  width: 500px;
+  height: auto;
+  
+  /*z-index: 1000;*/
+  position: fixed;
+  top: 0;
+  left: 7%;
+  /*transform: translateX(-50%);*/
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
