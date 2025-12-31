@@ -110,13 +110,13 @@ body {
   text-align: center;
   padding-left: 50px;
   padding-right: 50px;
-  width: 300px;
+  width: 150px;
   height: auto;
   
   /*z-index: 1000;*/
   position: fixed;
   top: 0;
-  left: 7%;
+  left: 40.1%;
   /*transform: translateX(-50%);*/
 
   display: flex;
