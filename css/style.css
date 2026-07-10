@@ -2,10 +2,16 @@ html {
   height:100%
 }
 
+* {
+ font-family:"nintendo2",Arial,serif!important
+}
+
+/*
 @font-face {
   font-family: 'wiiufont';
   src: url('../font/nintendo_NTLG-DB_002.ttf') format('truetype');
 }
+*/
 
 body {
   position:absolute;
