@@ -17,7 +17,7 @@ body {
   position:absolute;
   background-color: #555555;
   color: white;
-  font-family: 'wiiufont';
+  /*font-family: 'wiiufont';*/
   margin:0;
   min-height:720px;
   overflow-x:hidden!important
@@ -25,7 +25,7 @@ body {
 
 .title {
   text-align: center;
-  font-family: 'wiiufont';
+  /*font-family: 'wiiufont';*/
   font-weight: bolder;
   vertical-align: middle;
 }
